@@ -1,0 +1,15 @@
+					Explication par bloc de lignes 
+
+lignes 1->10 : Inclusion des fichiers d'en-tête et définition des constantes
+
+lignes 12->22 : Calcul des coordonnées complexes
+
+lignes 26->27 : Initialisation de l'image PPM
+
+lignes 32->53 : Boucle pour parcourir les pixels de l'image(boucle "for")
+
+lignes 34->36 : Calcul de l'ensemble de Mandelbrot
+
+lignes 50->51 : Calcul de la couleur du pixel
+
+lignes 55->56 : Export et libération de l'image
