@@ -1,0 +1,6 @@
+Le type de dépot que je vais choisir est GitHub
+
+Pour le processus de création 
+1.Allez sur GitHub et créer un nouveau dépot.
+2.Configurer ce dépot avec "git remote add origin".
+3.Déposer les fichier et les branches avec "git push".
